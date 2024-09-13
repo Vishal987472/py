@@ -7,3 +7,4 @@ b = np.array([1,2])
 
 plt.plot(a,b)
 plt.show()
+print("done")
